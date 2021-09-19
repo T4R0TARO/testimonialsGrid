@@ -1,0 +1,22 @@
+/*====================
+ Base Styles 🏠
+ ====================== */
+
+ *, *::before, *::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+    
+  body {
+      color: var(--white);
+      font-family: 'Barlow Semi Condensed', sans-serif;
+      font-size: 13px;
+      font-weight: 500;
+      padding: 20px;
+      background-color: var(--greyblue);
+  }
+  
+  h1, h2, h3, h4 {
+    margin-top: 0;
+  }
