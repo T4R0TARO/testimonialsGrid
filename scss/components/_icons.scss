@@ -1,0 +1,20 @@
+/* Icon */
+
+.iconContainer img {
+    border-radius: 50%;
+    float: left;
+    border: 2px solid var(--lightgrey-text);
+    margin-right: 25px;
+    height: 40px;
+    width: auto;
+  }
+  
+  .userNameContainer {
+    display: flex;
+    flex-direction: column;
+    font-size: 16px;
+  }
+  
+  .iconContainer {
+    margin-bottom: 20px;
+  }

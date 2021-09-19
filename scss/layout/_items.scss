@@ -1,0 +1,28 @@
+ /*=============
+  Mobile Styles 📱
+  =================*/
+  .item1 {
+    background-color: var(--purple-card);
+    background-image: url(/images/bg-pattern-quotation.svg);
+    background-repeat: no-repeat;
+    background-size: 22%;
+    background-position: right 15% bottom 100%;
+  }
+  .item2 {
+    background-color: var(--gray-card);
+  }
+  // .item3 {
+  //   background-color: var(--white);
+  //   order: 1;
+  // }
+  .item4 {
+    background-color: var(--white);
+   
+  }
+  .item5 {
+    background-color: var(--blkblue-card);
+  }
+
+  .item3, .item4 {
+      color: var(--gray-card);
+  }
